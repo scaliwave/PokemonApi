@@ -1,0 +1,20 @@
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+
+.backgroundRegister{
+    background-image: url(../../public/pokedex2.jpg);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    position: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
